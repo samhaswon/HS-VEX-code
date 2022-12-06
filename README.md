@@ -6,7 +6,7 @@
  <br>
  ## Files included
  ### RobotC Code
- Files included in the [RobotC Code](RobotC%20Code) folder contain RobotC Code... who would have guessed it. This code is for the EDR platform and is more useful in retrospect that anything else. 
+ Files included in the [RobotC Code](RobotC%20Code) folder contain RobotC Code... who would have guessed it. This code is for the EDR platform and is more useful for looking in retrospect that anything else. 
  ### V5 Code
  Files included in [V5 Code](V5%20Code) are from the 2019-2020 and 2020-2021 games. The Programming log is only from the latter and was mostly for the engineering notebook later. There are also two different types of projects here: Vexcode and Vexcode Pro V5. Both will work in the [Vexcode Pro V5](https://www.vexrobotics.com/vexcode/install/v5) application as of writing, but are opened using "Import"[^1] and "Open" (after zipping[^2]) respectively. Lets just say there were quite a lot of changes happening as I was programming on the V5 platform.
 
