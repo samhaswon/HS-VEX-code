@@ -1,5 +1,5 @@
 # HS-VEX-code
- A collection of all of the code I write for the VEX Robotics club in High School
+ A collection of all of the code I wrote for the VEX Robotics club in High School
 
 ## A word
  This repo shows where I came from with coding. At the start I hardly knew anything besides Scratch and a little Python (which I was teaching myself concurrently). Starting in C with RobotC, I learned the basics of robot programming (and how important semi colons can be). After some experience, VEX moved from the EDR platform to the V5 platform. This moved the syntax from C to C++. Generally, the mode I used in VexCode/VexCode Pro V5 was the standard mode, but I changed a few things in the header files with notepad. Over time, I slowly got better with programming in C++. I even did some work with Computer Vision as showcased in [Vision Test](V5%20Code/Vision%20Test.vex). Later, VEX introduced the drivetrain configuration feature. This helped make later autonomous routines more repeatable, but still not 100% so. Overall, this program taught me the foundational skills in programming that made AP Computer Science and my college classes much easier. Hopefully, by publishing this repository, I can help someone else accelerate their journey to success. Good luck this season!  
