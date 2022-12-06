@@ -1,0 +1,11 @@
+- Put motor statistics in the while loop
+
+- Fixed Syntax errors according to console (the commands on the side were utilized, however the console gave an error for them)
+
+- Removed "IntakeAngle1 Efficiency", "IntakeAngle2 Efficiency", and "StackAngle Efficiency" from motor statistics after quick test showed interference on the screen
+
+- Began Preparation for vision programming
+
+- Tested motor statistics (working)
+
+- Fixed intake motor name issue (I had both motor spin commands with the same name because I forgot to switch a 1 to a 2)

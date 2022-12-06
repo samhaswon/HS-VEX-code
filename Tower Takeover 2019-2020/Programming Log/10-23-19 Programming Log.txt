@@ -1,0 +1,16 @@
+-Added 12 semicolons
+
+- figured out b is the autonomous switch
+	~oh yeah, i programmed it that way. lol.
+
+- Moved the ramp expansion code out of the while loop
+
+- changed the power decent of the cube intake to rev instead of fwd
+
+- Swapped fwd and rev on the cube intake level after some testing
+
+- Duplicated vision targeting
+	*Need to test tomorrow
+
+
+

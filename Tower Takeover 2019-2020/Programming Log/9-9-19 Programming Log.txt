@@ -1,0 +1,19 @@
+- started programming the vision sensor
+
+- watched a video tutorial from a series on moving from ROBOTC to Vex Coding Studio
+
+- started training the sensor
+	* Training was not saving
+	* After much searching without finding a solution, I tried not pressing the freeze button and just holding the sensor and drawing a box around the cube. This oddly worked.
+
+- The Brain crashed around 13 or 14 times while attempting all of this
+	* No true solution found after much resarch on this
+		~ Most V5 users I found in forums just rebooted their Brains when they crashed
+
+- As the day went on, I had to use supplementary lighting in order for the camera to have suffecient lighting to differientiate the cubes from the visual noise
+
+- I tried a clawbot program to see if it would crash and after five minutes of fooling around the brain crashed when I tried to exit the program
+
+- Finally got the vision sensor to recognize a dominate color and make a motor spin a different direction
+
+- Conclusions: V5 brains are harder to figure out than most women, and vision sensors are cool.

@@ -1,0 +1,7 @@
+- Started Vision Signatures on practice bot
+
+- found guide : https://www.youtube.com/watch?v=aFciE7s8xfY
+
+- declared Vision1 instead of Vision (error)
+
+- inserted forgotten semicolons

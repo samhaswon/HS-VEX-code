@@ -1,0 +1,81 @@
+a1:
+// caps bois
+	motor[port2] = 127;
+	motor[port3] = 127;
+	motor[port4] = 127;
+	motor[port5] = 127;
+	motor[port6] = 127;
+	wait(500, milliseconds);
+	// quick inertia stop
+	motor[port2] = 0;
+	motor[port3] = 0;
+	motor[port4] = 0;
+	motor[port5] = 0;
+	motor[port6] = 127;
+	wait(250, milliseconds);
+	// RREEEEEE
+	motor[port2] = 127;
+	motor[port3] = 127;
+	motor[port4] = 127;
+	motor[port5] = 127;
+	motor[port6] = 127;
+	wait(1000, milliseconds);
+	// back it up
+	motor[port2] = -80;
+	motor[port3] = -80;
+	motor[port4] = -127;
+	motor[port5] = -127;
+	wait(1900, milliseconds);
+	// brake check
+	motor[port2] = 127;
+	motor[port3] = 127;
+	motor[port4] = 127;
+	motor[port5] = 127;
+	wait(10, milliseconds);
+	// all done
+	motor[port2] = 0;
+	motor[port3] = 0;
+	motor[port4] = 0;
+	motor[port5] = 0;
+	wait(10, milliseconds);
+
+a2:
+// caps bois
+	motor[port2] = 127;
+	motor[port3] = 127;
+	motor[port4] = 127;
+	motor[port5] = 127;
+	motor[port6] = 127;
+	wait(500, milliseconds);
+	// quick inertia stop
+	motor[port2] = 0;
+	motor[port3] = 0;
+	motor[port4] = 0;
+	motor[port5] = 0;
+	motor[port6] = 127;
+	wait(250, milliseconds);
+	// RREEEEEE
+	motor[port2] = 127;
+	motor[port3] = 127;
+	motor[port4] = 127;
+	motor[port5] = 127;
+	motor[port6] = 127;
+	wait(1000, milliseconds);
+	// back it up
+	motor[port2] = -127;
+	motor[port3] = -127;
+	motor[port4] = -80;
+	motor[port5] = -80;
+	wait(1900, milliseconds);
+	// brake check
+	motor[port2] = 127;
+	motor[port3] = 127;
+	motor[port4] = 127;
+	motor[port5] = 127;
+	wait(10, milliseconds);
+	// all done
+	motor[port2] = 0;
+	motor[port3] = 0;
+	motor[port4] = 0;
+	motor[port5] = 0;
+	wait(10, milliseconds);

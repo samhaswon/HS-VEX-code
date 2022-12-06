@@ -1,0 +1,16 @@
+- Started programming the robot now that Sean has brought it in
+
+- Put in missing semi colons
+
+- compiled with errors 
+	* Two motors had the same name
+
+- Started motor statistics on brain display
+
+- Got autonomus switch on the controller
+
+- Added extra motors for Sean
+	* put program on the brain
+
+- Prepared for testing tomorrow (long day)
+	* includes thinking of a location for the vision sensor

@@ -1,0 +1,11 @@
+~8:40-9:00 solo
+- Changed to arcade control
+	*Compiled with only a no brain connected error
+
+~After School
+- Mounted the vision sensor outside of the 18in limit
+
+- added, but not tested autonomous deploying of the cube ramp
+
+- Started cube search in autonomous
+	*** Check if Signatures are recognized

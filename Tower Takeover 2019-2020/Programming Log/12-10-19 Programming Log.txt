@@ -1,0 +1,23 @@
+Autonomous Day!
+
+- Goal: 2-3 points
+
+- Part 1: go forward and grab cube
+	~ just made to robot go forward with the intake on
+	~ rotate afterwards
+	~ went too far
+	~ reduced the rotational amount
+
+- Part 2: grab the two cubes in a row
+	~ The nearest cube was rotated in place
+	~ minor adjustments = cube
+	~ Came up short
+	~ added more time plus rotation into goal
+	~ came short 3 times
+	~ stacked cubes manually and timed it (overshot)
+	~ back up unsuccessful - intake interference
+	~ fixed the intake interference - Success
+
+- informed Sean of how to set up the robot and how close it needs to be
+
+- After repeated Autonomous runs, we realized that expansion just works with the flow

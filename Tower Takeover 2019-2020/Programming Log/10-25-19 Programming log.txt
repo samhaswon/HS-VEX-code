@@ -1,0 +1,6 @@
+- reversed cube location comparison
+	~undone
+
+- reversed motor spin direction
+
+- waited for the robot to be tagged and zip tied

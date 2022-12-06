@@ -1,0 +1,14 @@
+Arcade Control
+
+ButtonB = Autonomous switch
+
+ButtonUp = Stack angle Up
+ButtonDown = Stack Angle Down
+
+ButtonR1 = IntakeAngle1 & IntakeAngle2 up
+ButtonR2 = IntakeAngle1 & IntakeAngle2 down
+
+ButtonL1 = CubeSuck1 & CubeSuck2 on
+ButtonL1 = CubeSuck1 & CubeSuck2 down
+
+ButtonY = CubeSuck1 & CubeSuck2 reversed direction

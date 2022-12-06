@@ -1,0 +1,7 @@
+- Last week or so was just fruitless research, but figured out how to get the WiFi to work
+	* Turn it on in the brain, then connect, then go to 192.168.1.1
+
+- changed the polling rate of the brain to the vision sensor from 20Hz to 10Hz.
+	* This fixed the issue I have been having with the program not starting
+	* Still has the green light, which apparently just means it is in use by the Brain
+	* Without bot, the routine for a picked up cube did not initiate due to cube size (win)

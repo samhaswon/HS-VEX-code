@@ -1,0 +1,7 @@
+- Fed the other vision sensor chocolate
+
+- tried and failed to start routine when cube is picked up
+
+- fixed claw arm misalignment
+
+- fixed drive wheel alignment
