@@ -48,7 +48,7 @@ task autonomous()
 	motor[port4] = 127;
 	motor[port5] = 127;
 	wait(1000, milliseconds);
-	// shoot the ballz
+	// shoot the balls
 	motor[port8] = 50;
 	motor[port7] = 127;
 	wait(1000, milliseconds);
@@ -100,7 +100,7 @@ task autonomous2()
 	motor[port4] = 127;
 	motor[port5] = 127;
 	wait(1000, milliseconds);
-	// shoot the ballz
+	// shoot the balls
 	motor[port8] = 50;
 	motor[port7] = 127;
 	wait(1000, milliseconds);
