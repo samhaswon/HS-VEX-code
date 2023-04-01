@@ -60,7 +60,7 @@ void drivercontrol( void ) {
       R_Intake.stop(brakeType::coast);
     }
 
-    // Score Gay Boi
+    // Score 
     if(Controller1.ButtonR1.pressing()){
       FlingyBoi1.spin(directionType::fwd, 100, velocityUnits::pct);
       FlingyBoi2.spin(directionType::fwd, 100, velocityUnits::pct);
