@@ -55,7 +55,7 @@ int rc_auto_loop_callback_Controller1() {
       R_Intake.stop(brakeType::coast);
     }
 
-    // Score Gay Boi
+    // Score Boi
     if(Controller1.ButtonR1.pressing()){
       FlingyBoi1.spin(directionType::fwd, 100, velocityUnits::pct);
       FlingyBoi2.spin(directionType::fwd, 100, velocityUnits::pct);
